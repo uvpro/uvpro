@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/95050649/174386771-9e40c82a-6545-4db3-92cb-abbd02c159e5.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador UlisesPRO">
 
-<br> 
+<br>  
 <p align="left"> 
   🖖 Hola! Mi nombre es Ülises Vergara. Soy director creativo y diseñador de productos.
 </p>
