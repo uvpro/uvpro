@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  ☕ Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  ☕ Skills: <strong>Dirección de Arte | Dirección de Diseño | UX/UI | Branding | Social Media</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  💼 Herramientas: <strong>Adobe Creative Suit | Figma | HTML | CSS&SCSS | Trello </strong>
 </p>
 
 <p align="left">
