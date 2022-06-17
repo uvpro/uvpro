@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  ☕ Skills: <strong>Dirección de Arte | Dirección de Diseño | UX/UI | Branding | Social Media</strong>
+  ☕ Skills: <strong>Dirección de Arte | Dirección de Diseño | UX/UI | Branding</strong>
 </p>
 
 <p align="left">
