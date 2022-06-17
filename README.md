@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💌 Estoy convencido de que juntos lograremos cosas increíbles 💜: ⤵️
+  💌 Estoy convencido de que juntos lograremos cosas increíbles💜⤵️
 </p>
 
 <p align="left">
